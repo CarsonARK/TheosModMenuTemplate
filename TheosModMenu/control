@@ -1,0 +1,10 @@
+Package: hack.carson.com
+Name: Carson Mod Menu Template
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Mod Menu
+Maintainer: Carson
+Author: Carson
+Section: Tweaks
+Homepage: https://carson.com/
